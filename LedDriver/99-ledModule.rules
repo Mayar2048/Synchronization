@@ -1,0 +1,2 @@
+#Rules file for the ledModule Device Driver
+KERNEL=="ledModule", SUBSYSTEM=="led", MODE="0664"
